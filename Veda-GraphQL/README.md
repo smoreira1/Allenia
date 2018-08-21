@@ -1,0 +1,2 @@
+# BGQL
+Bishojo GraphQL
